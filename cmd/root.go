@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"go-cli-app3/logger"
+	"go-cli-app4/logger"
 )
 
 var (
